@@ -1,4 +1,4 @@
-#Explain your work
+#I made two lists and merged them. 
 oddlist = list(range(1,50,2))
 evenlist = list(range(0,50,2))
 newlist = oddlist + evenlist
